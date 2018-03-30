@@ -1,0 +1,18 @@
+:drotto:
+  :block_mode: irreversible
+  :account_name: @x2x
+  :posting_wif: STM7bHEwNAuKNTs1f8xhAawJHys4ywWjm21phMgtsDrTnKqGuGoTX
+  :active_wif: STM58fYAgMWzLRg2nSJKmfCousXu3vQNfTrxPRYGaMsCSyEHD5SDX
+  :max_age: 7200
+  :batch_vote_weight: 100.00 %
+  :min_effective_weight: 0.25 %
+  :reserve_vote_weight: 0.00 %
+  :minimum_bid: 0.0010 SBD
+  :blacklist: mikethemug
+  :no_bounce: bittrex poloniex openledger
+  :no_comment: bittrex poloniex openledger
+  :no_comment_fee: 0.00 %
+  :auto_bounce_on_lockout: false
+:chain_options:
+  :chain: steem
+  :url: https://steemd.steemit.com
